@@ -1,4 +1,4 @@
-# Summit-2020-Collective
+# RD Summit-2020-Collective
 ## RD Collective
 
 Have you ever wanted to have more of a say in how the RD program engages with Microsoft and beyond?  Do you have a great idea for an RD roundtable series, mentorship program, online content series, or something of the like but need some help getting your idea off the ground?  Are you looking for an opportunity to collaborate and ideate with other RDs?  
